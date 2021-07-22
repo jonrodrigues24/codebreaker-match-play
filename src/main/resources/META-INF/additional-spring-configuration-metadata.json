@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "server.spring.jackson.deserialization.accept-float-as-int",
+      "type": "java.lang.String",
+      "description": "Description for server.spring.jackson.deserialization.accept-float-as-int."
+  }
+] }
